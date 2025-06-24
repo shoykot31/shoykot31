@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shoykot31
-- 👀 I’m interested in Cyber security, blockchain
+- 👀 I’m interested in Competitive programming and AI/ML
 - 🌱 I’m currently learning both
 - 📫 How to reach me 
 - 😄 Pronouns: He/him
