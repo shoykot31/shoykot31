@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shoykot31
 - 👀 I’m interested in Competitive programming and AI/ML
-- 🌱 I’m currently learning both
+- 🌱 I’m currently doing competitive programming
 - 📫 How to reach me 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
